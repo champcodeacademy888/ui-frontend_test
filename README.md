@@ -202,10 +202,3 @@ Sample structure:
 | **State Management** | Logical and predictable data flow |
 | **Maintainability** | Code readability, naming, and organization |
 | **Bonus Points** | Creative UI, animations, or advanced filtering |
-
----
-
-## 🖼️ Example Reference
-
-### Tutor Portal Example
-![Admin UI](./admin.png)
