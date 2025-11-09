@@ -184,7 +184,7 @@ Sample structure:
 - Include this `README.md` in your repo  
 - Do **not** fork; create your own public repo  
 - First commit = clean boilerplate setup  
-- Deploy preview on **Vercel** / **Netlify** (bonus)  
+- Deploy preview on **GitHub Pages** (bonus)  
 - Provide setup instructions:
   - `npm install`
   - `npm run dev`
